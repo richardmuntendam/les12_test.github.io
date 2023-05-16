@@ -1,0 +1,82 @@
+#Les12 {
+    border-collapse: collapse;
+    width: 50%;
+  }
+  header {
+    background-color: greenyellow;
+    width: 50%;
+    height: 90px;
+  }
+  footer {
+    background-color: greenyellow;
+    width: 50%;
+    height: 90px;
+    }
+  td {
+    border: 1px solid;
+    height: 50px;
+  }
+  #cell-1 {
+    background-color: red;
+  }
+  
+  #cell-2 {
+    background-color: green;
+  }
+  
+  #cell-3 {
+    background-color: blue;
+  }
+  
+  #cell-4 {
+    background-color: yellow;
+  }
+  
+  #cell-5 {
+    background-color: pink;
+  }
+  
+  #cell-6 {
+    background-color: orange;
+  }
+  
+  #cell-7 {
+    background-color: purple;
+  }
+  
+  #cell-8 {
+    background-color: brown;
+  }
+  
+  #cell-9 {
+    background-color: cyan;
+  }
+  
+  #cell-10 {
+    background-color: magenta;
+  }
+  
+  #cell-11 {
+    background-color: lime;
+  }
+  
+  #cell-12 {
+    background-color: navy;
+  }
+  
+  #cell-13 {
+    background-color: gold;
+  }
+  
+  #cell-14 {
+    background-color: silver;
+  }
+  
+  #cell-15 {
+    background-color: maroon;
+  }
+  
+  #cell-16 {
+    background-color: olive;
+  }
+  
